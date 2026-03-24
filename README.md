@@ -1,5 +1,7 @@
 # java-web-backend-halaburda
-UCSA Diplomado en Java Web - Tutor: Pablo Rodríguez
+UCSA Diplomado en Java Web
+Tutor: Pablo Rodríguez
+---
 
 ### Primera clase
 - Instalamos JDK y verificamos con java -version
